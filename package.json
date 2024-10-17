@@ -1,5 +1,5 @@
 {
-  "name": "@rbts-eslint-config",
+  "name": "@rubtsov/eslint-config",
   "version": "1.0.1",
   "main": "index.js",
   "peerDependencies": {
